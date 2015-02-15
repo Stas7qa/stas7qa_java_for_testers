@@ -1,3 +1,4 @@
 # stas7qa_java_for_testers
 Stas7qa_java_for_testers
-Проверка дампа
+testting for coming to pc
+
